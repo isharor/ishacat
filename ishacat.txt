@@ -1,1 +1,1 @@
-ishcat-1.1
+ishcat-1.2
